@@ -23,11 +23,11 @@
   "aggregations": {
     "clothing": {
       "count": 4,
-      "inventoryValue": 121494.86
+      "inventoryValue": 93010.24
     },
     "home": {
       "count": 3,
-      "inventoryValue": 92177.21
+      "inventoryValue": 93652.71
     },
     "electronics": {
       "count": 3,
